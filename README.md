@@ -1,5 +1,5 @@
 # Adidas-Sales-Analysis
-
+![logo](https://github.com/rachit7217/Adidas-Sales-Analysis/blob/main/Dashboard%207%20Adidas%20US%20sales%20.png)
 To create a "**Adidas Sales Analysis**" project using **Excel**, **SQL**, and **Power BI**, the key features should focus on leveraging each tool to provide a comprehensive, insightful, and interactive sales dashboard. Below is a summary of essential features:
 
 ### **Data Collection (Excel & SQL):**
